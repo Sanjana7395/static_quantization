@@ -21,7 +21,6 @@ Setup procedure
            pip install matplotlib
 
 3. Run the notebook.  
-      See **Documentation for the code** section for further details.
       In this notebook we use MNIST data set for experimenting.
       
 Results
