@@ -36,5 +36,5 @@ Below are the results obtained on the test set for the models trained in the pro
 
 | Models                           | Accuracy (%)  | Memory size (MB)  | Inference time (ms)  |
 |----------------------------------|:-------------:|:-----------------:|:--------------------:|
-| Original                         | 98.82         | 44.76             | 13.46                |
-| Quantized                        | 99.01         | 11.20             | 3.69                 |
+| Original                         | 99.28         | 44.76             | 15.06                |
+| Quantized                        | 99.26         | 11.20             | 3.64                 |
